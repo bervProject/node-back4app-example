@@ -9,8 +9,8 @@
   "author": "Bervianto Leo Pratama",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.20.2",
-    "express": "^4.19.2",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
     "mysql2": "^3.9.8",
     "sequelize": "^6.35.1"
   }
