@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.20.3",
-    "express": "^4.21.0",
+    "express": "^4.21.1",
     "mysql2": "^3.9.8",
     "sequelize": "^6.35.1"
   }
